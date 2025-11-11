@@ -1,0 +1,17 @@
+@media (max-width: 1200px){
+
+            .surya {
+                display: grid;
+                grid-template-columns: auto auto auto;
+                background-color:bisque;
+                height: 670px;
+            }
+            body{
+                background-color: cadetblue;
+            }
+            nav{
+                width: 1200px;
+            }
+
+            
+        }
